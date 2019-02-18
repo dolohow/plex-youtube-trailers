@@ -1,0 +1,2 @@
+PlexAPI==3.0.6
+youtube-dl==2019.2.18

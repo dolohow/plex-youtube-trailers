@@ -1,0 +1,11 @@
+[General]
+# Playlist to be used as a source for trailers.
+youtube_playlist_url = https://www.youtube.com/playlist?list=PLScC8g4bqD47c-qHlsfhGH3j6Bg7jzFy-
+# Specifies how many trailers will be download from a playlist.
+playlist_end = 10
+# Where trailers will be saved.
+save_path = ~/Trailers
+
+[Plex]
+baseURL = http://localhost:32400
+token =
